@@ -32,3 +32,5 @@ Let's make this even better!
 - Open a pull request on GitHub and describe the feature or fix.
 
 Thank you for your support!
+
+Use release in github
